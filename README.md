@@ -64,25 +64,25 @@ s1-eth1
 ## Proof of Execution
 
 ### Controller Running
-![Controller](screenshots/controller_running.png)
+![Controller](Screenshots/controller_running.png)
 
 ### Mininet Topology
-![Topology](screenshots/mininet_topology_pingall.png)
+![Topology](Screenshots/mininet_topology_pingall.png)
 
 ### ICMP Ping Test
-![Ping](screenshots/icmp_ping_test.png)
+![Ping](Screenshots/icmp_ping_test.png)
 
 ### Controller Packet Logs
-![Logs](screenshots/controller_packet_logs.png)
+![Logs](Screenshots/controller_packet_logs.png)
 
 ### Wireshark ICMP Capture
-![ICMP](screenshots/wireshark_icmp.png)
+![ICMP](Screenshots/wireshark_icmp.png)
 
 ### Wireshark TCP Capture
-![TCP](screenshots/wireshark_tcp.png)
+![TCP](Screenshots/wireshark_tcp.png)
 
 ### TCP Performance Test (iperf)
-![iperf](screenshots/iperf_tcp_test.png)
+![iperf](Screenshots/iperf_tcp_test.png)
 
 ### Flow Table
-![Flow Table](screenshots/switch_flow_table.png)
+![Flow Table](Screenshots/switch_flow_table.png)
