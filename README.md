@@ -61,16 +61,28 @@ s1-eth1
 - Throughput displayed using iperf
 - Flow table entries visible in the switch
 
-
 ## Proof of Execution
 
-Screenshots included in this repository:
+### Controller Running
+![Controller](screenshots/controller_running.png)
 
-- Controller running
-- Mininet topology
-- Ping test
-- Controller packet logs
-- Wireshark ICMP packets
-- Wireshark TCP packets
-- iperf throughput
-- Flow table entries
+### Mininet Topology
+![Topology](screenshots/mininet_topology_pingall.png)
+
+### ICMP Ping Test
+![Ping](screenshots/icmp_ping_test.png)
+
+### Controller Packet Logs
+![Logs](screenshots/controller_packet_logs.png)
+
+### Wireshark ICMP Capture
+![ICMP](screenshots/wireshark_icmp.png)
+
+### Wireshark TCP Capture
+![TCP](screenshots/wireshark_tcp.png)
+
+### TCP Performance Test (iperf)
+![iperf](screenshots/iperf_tcp_test.png)
+
+### Flow Table
+![Flow Table](screenshots/switch_flow_table.png)
